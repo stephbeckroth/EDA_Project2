@@ -7,7 +7,7 @@
 # Program written by Stephanie R. Beck Roth
 # Due 7-26-2015
 
-library(doby)
+library(doBy)
 library(dplyr)
 library(tidyr)
 library(gtools)
